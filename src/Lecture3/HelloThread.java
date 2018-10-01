@@ -1,3 +1,5 @@
+package Lecture3;
+
 /**
  * @author John Berkley
  * CPP Class: <Insert Class Here>

@@ -1,9 +1,11 @@
+package Lecture3;
+
 /**
  * @author John Berkley
  * CPP Class: <Insert Class Here>
  * Date Created: Oct 01, 2018
  */
-//SimpleThreads Example
+//Lecture3.SimpleThreads Example
 
 public class SimpleThreads {
 
